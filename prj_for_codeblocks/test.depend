@@ -1,0 +1,35 @@
+# depslib dependency file v1.0
+1571937840 source:f:\files\work\soft\ecc_lib_for_students\src\gf_element.cpp
+	"../include/GF_element.h"
+	"../include/GF.h"
+
+1557565669 f:\files\work\soft\ecc_lib_for_students\include\gf_element.h
+	"../Vector.h"
+	"bit.h"
+
+1557565669 f:\files\work\soft\ecc_lib_for_students\vector.h
+	<iostream>
+	<stdlib.h>
+	<math.h>
+
+1557565669 f:\files\work\soft\ecc_lib_for_students\include\bit.h
+
+1557565669 f:\files\work\soft\ecc_lib_for_students\include\gf.h
+	"GF_element.h"
+	"../Matrix.h"
+
+1557565669 f:\files\work\soft\ecc_lib_for_students\matrix.h
+	<fstream>
+	"Vector.h"
+
+1571937855 source:f:\files\work\soft\ecc_lib_for_students\src\bit.cpp
+	<iostream>
+	"../include/bit.h"
+
+1571937894 source:f:\files\work\soft\ecc_lib_for_students\src\gf.cpp
+	"../include/GF.h"
+	"../include/GF_element.h"
+	"../Matrix.h"
+	"../Vector.h"
+	"math.h"
+
